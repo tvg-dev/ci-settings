@@ -1,0 +1,7 @@
+env.json
+/build/
+allure-report/
+ConfigDumpInfo.xml
+out
+.scannerwork
+/src
